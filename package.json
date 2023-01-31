@@ -24,6 +24,7 @@
     "react-test-renderer": "^18.2.0"
   },
   "dependencies": {
+    "axios-react": "^2.0.8",
     "babel-cli": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-polyfill": "^6.23.0",
